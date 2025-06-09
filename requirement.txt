@@ -1,0 +1,6 @@
+streamlit
+matplotlib
+pandas
+scikit-learn
+# add any other libraries your app uses
+yfinance
